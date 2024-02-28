@@ -1,0 +1,27 @@
+.first-line{
+    width: 2px; 
+    border: none; 
+    height: 50px; 
+    color: #333;
+     background-color: #333;
+     margin-top: -17px;
+}
+
+
+.second-line{
+    width: 70%; 
+    border: none;
+     height: 1px; 
+     color: #333;
+      background-color: #333;
+      margin-top: -16px;
+
+
+}
+
+
+.btn-secondary{
+    margin-top: 45px;
+    margin-left: 56px;
+    margin-right: 56px;
+}
